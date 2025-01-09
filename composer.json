@@ -1,0 +1,13 @@
+{
+    "name": "gayfullin/base-helpers",
+    "license": "MIT",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gayfullin\\BaseHelpers\\": "src/"
+        }
+    },
+    "require": {
+        "php": "7.4"
+    }
+}
