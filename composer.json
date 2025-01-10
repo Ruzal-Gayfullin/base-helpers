@@ -8,6 +8,14 @@
         }
     },
     "require": {
-        "php": "^7.3"
-    }
+        "php": "^8.0.2",
+        "laravel/framework": "*",
+        "ext-fileinfo": "*"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
+    ]
 }
